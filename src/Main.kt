@@ -61,10 +61,7 @@ val friends= arrayOf ("ben" ,"paul", "aline" , "mutesi", "fanny")
     println(words.contentToString())
 
     //looping through array; printing each variable
-    words.forEach { f ->
-
-        println(f)
-    }
+    words.forEach { f ->}
 
 
 
@@ -81,4 +78,4 @@ val friends= arrayOf ("ben" ,"paul", "aline" , "mutesi", "fanny")
 
 
 
-}
+
